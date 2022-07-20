@@ -1,5 +1,6 @@
 package com.eaglefx1.runes_arcana;
 
+import com.eaglefx1.runes_arcana.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.common.MinecraftForge;
@@ -18,6 +19,8 @@ public class Runes_Arcana {
 
     public Runes_Arcana() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModItems.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
