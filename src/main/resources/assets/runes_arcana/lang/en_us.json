@@ -1,6 +1,10 @@
 {
 "item.runes_arcana.blank_rune": "Blank Rune",
   "item.runes_arcana.rune_of_fire": "Rune of Fire",
+  "item.runes_arcana.rune_of_air": "Rune of Air",
+  "item.runes_arcana.rune_of_earth": "Rune of Earth",
+  "item.runes_arcana.rune_of_water": "Rune of Water",
+  "item.runes_arcana.rune_of_electricity": "Rune of Electricity",
 
   "itemGroup.Runes Arcana": "Runes Arcana"
 }

@@ -15,6 +15,14 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreaticeModeTab.Runes_Arcana)));
     public static final RegistryObject<Item> RUNE_OF_FIRE = ITEMS.register("rune_of_fire",
             () -> new Item(new Item.Properties().tab(ModCreaticeModeTab.Runes_Arcana)));
+    public static final RegistryObject<Item> RUNE_OF_WATER = ITEMS.register("rune_of_water",
+            () -> new Item(new Item.Properties().tab(ModCreaticeModeTab.Runes_Arcana)));
+    public static final RegistryObject<Item> RUNE_OF_AIR = ITEMS.register("rune_of_air",
+            () -> new Item(new Item.Properties().tab(ModCreaticeModeTab.Runes_Arcana)));
+    public static final RegistryObject<Item> RUNE_OF_EARTH = ITEMS.register("rune_of_earth",
+            () -> new Item(new Item.Properties().tab(ModCreaticeModeTab.Runes_Arcana)));
+    public static final RegistryObject<Item> RUNE_OF_ELECTRICITY = ITEMS.register("rune_of_electricity",
+            () -> new Item(new Item.Properties().tab(ModCreaticeModeTab.Runes_Arcana)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
