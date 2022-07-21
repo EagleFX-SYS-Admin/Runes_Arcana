@@ -6,5 +6,18 @@
   "item.runes_arcana.rune_of_water": "Rune of Water",
   "item.runes_arcana.rune_of_electricity": "Rune of Electricity",
 
+  "item.runes_arcana.rune_of_speed": "Rune of Speed",
+  "item.runes_arcana.rune_of_vigor": "Rune of Vigor",
+  "item.runes_arcana.rune_of_the_noctournals": "Rune of the Noctournals",
+  "item.runes_arcana.rune_of_destruction": "Rune of Destruction",
+  "item.runes_arcana.rune_of_creation": "Rune of Creation",
+  "item.runes_arcana.rune_of_leaping": "Rune of Leaping",
+  "item.runes_arcana.rune_of_wings": "Rune of Wings",
+  "item.runes_arcana.rune_of_levitaion": "Rune of Levitaion",
+  "item.runes_arcana.rune_of_frost": "Rune of Frost",
+  "item.runes_arcana.rune_of_frozen_time": "Rune of Frozen Time",
+  "item.runes_arcana.rune_of_swift_mining": "Rune of Swift Mining",
+  "item.runes_arcana.rune_of_healing": "Rune of Healing",
+
   "itemGroup.Runes Arcana": "Runes Arcana"
 }
