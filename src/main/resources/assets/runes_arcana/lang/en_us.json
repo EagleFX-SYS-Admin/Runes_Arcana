@@ -19,5 +19,8 @@
   "item.runes_arcana.rune_of_swift_mining": "Rune of Swift Mining",
   "item.runes_arcana.rune_of_healing": "Rune of Healing",
 
+  "block.runes_arcana.block_of_blank_runes": "Block of Blank Runes",
+  "block.runes_arcana.runic_ore": "Runic Ore",
+
   "itemGroup.Runes Arcana": "Runes Arcana"
 }

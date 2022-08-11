@@ -1,7 +1,7 @@
 package com.eaglefx1.runes_arcana.block;
 
 import com.eaglefx1.runes_arcana.Runes_Arcana;
-import com.eaglefx1.runes_arcana.item.ModCreaticeModeTab;
+import com.eaglefx1.runes_arcana.item.ModCreativeModeTab;
 import com.eaglefx1.runes_arcana.item.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
@@ -26,11 +26,11 @@ public class ModBlocks {
     public static final RegistryObject<Block> RUNIC_ORE = registerBlock("runic_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(6f).requiresCorrectToolForDrops(),
-                    UniformInt.of(3, 7)), ModCreaticeModeTab.Runes_Arcana);
+                    UniformInt.of(3, 7)), ModCreativeModeTab.Runes_Arcana);
 
     public static final RegistryObject<Block> BLOCK_OF_BLANK_RUNES = registerBlock("block_of_blank_runes",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(6f).requiresCorrectToolForDrops()), ModCreaticeModeTab.Runes_Arcana);
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.Runes_Arcana);
 
 
 
