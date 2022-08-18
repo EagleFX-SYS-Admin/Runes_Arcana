@@ -13,11 +13,12 @@
   "item.runes_arcana.rune_of_creation": "Rune of Creation",
   "item.runes_arcana.rune_of_leaping": "Rune of Leaping",
   "item.runes_arcana.rune_of_wings": "Rune of Wings",
-  "item.runes_arcana.rune_of_levitaion": "Rune of Levitaion",
+  "item.runes_arcana.rune_of_levitation": "Rune of Levitation",
   "item.runes_arcana.rune_of_frost": "Rune of Frost",
   "item.runes_arcana.rune_of_frozen_time": "Rune of Frozen Time",
   "item.runes_arcana.rune_of_swift_mining": "Rune of Swift Mining",
   "item.runes_arcana.rune_of_healing": "Rune of Healing",
+  "item.runes_arcana.rune_of_mining": "Rune of Mining",
 
   "block.runes_arcana.block_of_blank_runes": "Block of Blank Runes",
   "block.runes_arcana.runic_ore": "Runic Ore",
