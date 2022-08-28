@@ -13,41 +13,18 @@ public class ModItems {
 
     public static final RegistryObject<Item> BLANK_RUNE = ITEMS.register("blank_rune",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_FIRE = ITEMS.register("rune_of_fire",
+    public static final RegistryObject<Item> FIRE_RUNE = ITEMS.register("fire_rune",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_WATER = ITEMS.register("rune_of_water",
+    public static final RegistryObject<Item> WATER_RUNE = ITEMS.register("water_rune",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_AIR = ITEMS.register("rune_of_air",
+    public static final RegistryObject<Item> AIR_RUNE = ITEMS.register("air_rune",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_EARTH = ITEMS.register("rune_of_earth",
+    public static final RegistryObject<Item> EARTH_RUNE = ITEMS.register("earth_rune",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_ELECTRICITY = ITEMS.register("rune_of_electricity",
+    public static final RegistryObject<Item> ENERGY_RUNE = ITEMS.register("energy_rune",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
 
-    public static final RegistryObject<Item> RUNE_OF_SPEED = ITEMS.register("rune_of_speed",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_LEAPING = ITEMS.register("rune_of_leaping",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_THE_NOCTOURANLS = ITEMS.register("rune_of_the_noctournals",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_HEALING = ITEMS.register("rune_of_healing",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_VIGOR = ITEMS.register("rune_of_vigor",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_SWIFT_MINING = ITEMS.register("rune_of_mining",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_LEVITATION = ITEMS.register("rune_of_levitation",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_DESTRUCTION = ITEMS.register("rune_of_destruction",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_CREATION = ITEMS.register("rune_of_creation",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_WINGS = ITEMS.register("rune_of_wings",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_FROST = ITEMS.register("rune_of_frost",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
-    public static final RegistryObject<Item> RUNE_OF_FROZEN_TIME = ITEMS.register("rune_of_frozen_time",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Runes_Arcana)));
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

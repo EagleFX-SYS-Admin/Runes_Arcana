@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "runes_arcana:blank_rune"
+    }
+  },
+  "result": {
+    "item": "runes_arcana:block_of_blank_runes"
+  }
+}

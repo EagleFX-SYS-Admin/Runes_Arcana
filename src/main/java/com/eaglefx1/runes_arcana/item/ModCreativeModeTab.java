@@ -7,7 +7,7 @@ public class ModCreativeModeTab {
     public static final CreativeModeTab Runes_Arcana = new CreativeModeTab("Runes Arcana") {
         @Override
                 public ItemStack makeIcon() {
-                    return new ItemStack(ModItems.RUNE_OF_FIRE.get());
+                    return new ItemStack(ModItems.FIRE_RUNE.get());
         }
     };
 }

@@ -1,0 +1,12 @@
+{
+  "type":"minecraft:crafing_shapeless",
+  "ingredients": [
+    {
+      "item": "runes_arcana:block_of_blank_runes",
+    }
+  ],
+  "result": {
+    "item": "runes_arcana:blank_rune",
+    "count": 9
+  }
+}
