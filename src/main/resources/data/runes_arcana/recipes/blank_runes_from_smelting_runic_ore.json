@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experince": 0.6,
+  "group": "blank_rune",
+  "ingredient": {
+    "item": "runes_arcana:runic_ore"
+  },
+  "result": "runes_arcana:blank_rune"
+}
